@@ -9,8 +9,11 @@ Cards have:
 
 Element system:
 Fire > Air
+
 Air > Earth
+
 Earth > Water
+
 Water > Fire
 
 Special abilities & ultimates influence gameplay
